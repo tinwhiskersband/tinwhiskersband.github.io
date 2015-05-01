@@ -1,0 +1,26 @@
+# Site settings
+title: The Tin Whiskers
+email: thetinwhiskers@gmail.com
+url: https://thetinwhiskers.com
+description: "The Tin Whiskers -- Silicon Valley's best band."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: The Tin Whiskers
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/ttwband
+  - title: facebook
+    url: https://facebook.com/thetinwhiskers
+  - title: github
+    url: https://github.com/tinwhiskersband
+
+# Build settings
+markdown: kramdown
+permalink: pretty
