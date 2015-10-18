@@ -14,4 +14,4 @@ To test your changes locally run:
 
 ## Assets
 
-* Theme: https://github.com/jeromelachaud/grayscale-theme
+* Theme: https://github.com/brianmaierjr/long-haul
