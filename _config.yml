@@ -1,4 +1,4 @@
-title: The Tin Whiskers Band
+title: The Tin Whiskers
 description: The Bay Area's Best Southern Rock Jam Band
 
 url: http://thetinwhiskers.com
@@ -14,9 +14,9 @@ navigation:
  - title: Home
    url: /index.html
  - title: About
-   url: /about
+   url: /about.html
  - title: Contact
-   url: /contact
+   url: /contact.html
 
 social:
    github: tinwhiskersband
