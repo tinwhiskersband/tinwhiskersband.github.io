@@ -6,19 +6,21 @@ baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
-markdown: redcarpet
+gems: [jekyll-paginate]
+markdown: kramdown
 highlighter: rouge
+future: true
 paginate: 5
 
 navigation:
  - title: Home
    url: /index.html
  - title: About
-   url: /about.html
+   url: /about
  - title: Song List
-   url: /songs.html
+   url: /songs
  - title: Contact
-   url: /contact.html
+   url: /contact
 
 social:
    github: tinwhiskersband
