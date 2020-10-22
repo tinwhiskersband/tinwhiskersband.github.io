@@ -3,3 +3,4 @@ _vendor
 .sass-cache
 .DS_Store
 .ruby-version
+.jekyll-cache

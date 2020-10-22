@@ -12,6 +12,9 @@ highlighter: rouge
 future: true
 paginate: 5
 
+plugins:
+  - jekyll-paginate
+
 navigation:
  - title: Home
    url: /index.html
