@@ -1,5 +1,8 @@
 # thetinwhiskers.com
 
+> [!IMPORTANT]
+> This repository has been archived! All things must pass and so it was with this band. Fond memories of great times remain!
+
 The code that backs our band website. Because how else would a Silicon Valley-based band run a website other than on Github Pages?
 
 ## Working with this Site
